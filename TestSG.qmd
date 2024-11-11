@@ -146,19 +146,26 @@ On note maintenant :
   <strong>D.2) </strong>   Notons $\tau$ le 1er temps tel que $B$ atteigne la droite d'équation $x+y = 1$. Notons $z= (1,1) \in \mathbb{R}^2$. Montrez que $\tau$ coincide avec le premier passage en $a=1$ du processus $X_t = \langle B(t) ; z \rangle.$
 </div>
 
+<br>
+
+
 <div style="border:1px solid black; padding: 10px;">
   <strong>D.3) </strong>   Calculez la densité de $\tau$.
 </div>
+
+<br> 
 
 <div style="border:1px solid black; padding: 10px;">
   <strong>D.4) </strong>    Soit $\tau_1$ et $\tau_2$ les temps d'atteinte de $B$ respectivement pour les droites d'équation $2x+y = 1$ et $ \frac{1}{2} x - y = 1$. 
 </div>
 
+<br>
 
 <div style="border:1px solid black; padding: 10px;">
   <strong>D.5) </strong>   Montrez que $\tau_1$ et $\tau_2$ sont indépendants.
 </div>
 
+<br> 
 
 <div style="border:1px solid black; padding: 10px;">
   <strong>D.6) </strong>   Soit $\sigma = \tau_1 \wedge \tau_2$. Donnez la densité de $\sigma$.
