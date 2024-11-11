@@ -100,6 +100,13 @@ $\textbf{C : Etude de}$ $\tau$
 
 <br>
 
+<div style="border:1px solid black; padding: 10px;">
+  <strong>C.3) </strong>    Calculez $\mathbb{E}[\tau]$.
+</div>
+
+
+<br>
+
 $\textbf{D : Etude de quelques temps d'arrêt dans }$ $\mathbb{R}^{2}$
 
 
