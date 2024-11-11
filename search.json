@@ -84,7 +84,17 @@
     "href": "banques.html#jp-morgan",
     "title": "2  Questions posées en banques d’investissement",
     "section": "2.2 JP Morgan",
-    "text": "2.2 JP Morgan\n23 ## Société Générale",
+    "text": "2.2 JP Morgan",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Questions posées en banques d'investissement</span>"
+    ]
+  },
+  {
+    "objectID": "banques.html#société-générale",
+    "href": "banques.html#société-générale",
+    "title": "2  Questions posées en banques d’investissement",
+    "section": "2.3 Société Générale",
+    "text": "2.3 Société Générale",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Questions posées en banques d'investissement</span>"
     ]
@@ -93,8 +103,8 @@
     "objectID": "banques.html#cacib",
     "href": "banques.html#cacib",
     "title": "2  Questions posées en banques d’investissement",
-    "section": "2.3 CACIB",
-    "text": "2.3 CACIB",
+    "section": "2.4 CACIB",
+    "text": "2.4 CACIB",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Questions posées en banques d'investissement</span>"
     ]
@@ -103,8 +113,8 @@
     "objectID": "banques.html#bnp-paribas",
     "href": "banques.html#bnp-paribas",
     "title": "2  Questions posées en banques d’investissement",
-    "section": "2.4 BNP Paribas",
-    "text": "2.4 BNP Paribas",
+    "section": "2.5 BNP Paribas",
+    "text": "2.5 BNP Paribas",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Questions posées en banques d'investissement</span>"
     ]
@@ -113,8 +123,8 @@
     "objectID": "banques.html#hsbc",
     "href": "banques.html#hsbc",
     "title": "2  Questions posées en banques d’investissement",
-    "section": "2.5 HSBC",
-    "text": "2.5 HSBC",
+    "section": "2.6 HSBC",
+    "text": "2.6 HSBC",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Questions posées en banques d'investissement</span>"
     ]
@@ -123,8 +133,8 @@
     "objectID": "banques.html#citigroup",
     "href": "banques.html#citigroup",
     "title": "2  Questions posées en banques d’investissement",
-    "section": "2.6 CitiGroup",
-    "text": "2.6 CitiGroup",
+    "section": "2.7 CitiGroup",
+    "text": "2.7 CitiGroup",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Questions posées en banques d'investissement</span>"
     ]
@@ -133,8 +143,8 @@
     "objectID": "banques.html#deutsche-bank",
     "href": "banques.html#deutsche-bank",
     "title": "2  Questions posées en banques d’investissement",
-    "section": "2.7 Deutsche Bank",
-    "text": "2.7 Deutsche Bank",
+    "section": "2.8 Deutsche Bank",
+    "text": "2.8 Deutsche Bank",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Questions posées en banques d'investissement</span>"
     ]
