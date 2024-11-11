@@ -104,10 +104,35 @@ $\textbf{C : Etude de}$ $\tau$
   <strong>C.3) </strong>    Calculez $\mathbb{E}[\tau]$.
 </div>
 
+<br>
+
+<div style="border:1px solid black; padding: 10px;">
+  <strong>C.4) </strong>    Considérons le processus $X$ défini par $X_t =B_t^3 - 3tB_t$. Montrez que $X$ est une $\mathbb{F}$-martingale.
+</div>
+
+<br>
+
+<div style="border:1px solid black; padding: 10px;">
+  <strong>C.5) </strong>   Calculez la valeur de $Cov(\tau,B_{\tau})$.
+</div>
+
+
 
 <br>
 
 $\textbf{D : Etude de quelques temps d'arrêt dans }$ $\mathbb{R}^{2}$
+
+Dans cette section, considère un mouvement brownien plan défini par $B$ tel que :
+
+$$ B(t) = (B_1(t),B_2(t))$$
+avec $B_1$ et $B_2$ 2 mouvements browniens unidimensionnels indépendants.
+
+On note maintenant :
+
+-  $ < .,. >$ le produit scalaire canonique sur $\mathbb{R}^2$.
+-  $z \in \mathbb{R}^{2}$ privé de $\lbrace 0 \rbrace$.
+-  $X_t = \langle z ; B(t) \rangle $
+
 
 
 
