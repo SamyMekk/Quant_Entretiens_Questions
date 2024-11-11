@@ -143,7 +143,7 @@ On note maintenant :
 <br>
 
 <div style="border:1px solid black; padding: 10px;">
-  <strong>D.2) </strong>   Notons $\tau$ le 1er temps tel que $B$ atteigne la droite d'équation $x+y = 1$. Notons $z= (1,1) \in \mathbb{R}^2$. Montrez que $\tau$ coincide avec le premier passage en $a=1$ du processus $X_t = \langle B(t) ; z \rangle.$
+  <strong>D.2) </strong>   Notons $\tau$ le 1er temps tel que $B$ atteigne la droite d'équation $x+y = 1$. Notons $z= (1,1) \in \mathbb{R}^2$. Montrez que $\tau$ coincide avec le premier passage en $a=1$ du processus $X_t = < B(t) ; z >.$
 </div>
 
 <br>
