@@ -98,7 +98,7 @@ $\textbf{C : Etude de}$ $\tau$
   <strong>C.2) </strong>   Calculez la loi de $B_{\tau}$.
 </div>
 
-
+<br>
 
 $\textbf{D : Etude de quelques temps d'arrêt dans }$ $\mathbb{R}^{2}$
 
