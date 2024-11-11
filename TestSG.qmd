@@ -122,7 +122,7 @@ $\textbf{C : Etude de}$ $\tau$
 
 $\textbf{D : Etude de quelques temps d'arrêt dans }$ $\mathbb{R}^{2}$
 
-Dans cette section, considère un mouvement brownien plan défini par $B$ tel que :
+Dans cette section, considère un mouvement brownien plan défini par $B$ comme suit  :
 
 $$ B(t) = (B_1(t),B_2(t))$$
 avec $B_1$ et $B_2$ 2 mouvements browniens unidimensionnels indépendants.
