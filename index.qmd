@@ -1,0 +1,27 @@
+Bienvenue sur ce site web de questions d'entretien pour le métier de Quant. Ce site web contiendra les questions pour toutes les positions de quant que sont les suivantes qui ont été posées en entretien à partir de l'année 2023-2024.
+
+- Quant Analyst
+- Quant Researcher
+- Quant Trader
+- Quant Developer
+
+Le site sera régulièrement mis à jour avec de nouvelles questions et nous remercions l'ensemble des contributeurs qui permettent de compléter ce site web.
+
+
+# Organisation du site {.unnumbered}
+
+Ce site contient quelques questions d'entretien pour des postes de quant. Il est organisé en plusieurs sections :
+
+- La $1^{ère}$ partie consituée des annales des tests écrits de la Société Générale depuis l'année 2020-2021.
+- La $2^{nde}$ partie est constituée de questions posées lors d'entretiens en banque d'investissement.
+- La $3^{ème}$ partie est constituée de questions posées lors d'entretiens en fonds d'investissement.
+- La $4^{ème}$ partie est consituée de questions posées lors d'entretien en cabinet de conseil.
+- La $5^{ème}$ partie est constituée de questions posées lors d'entretien dans d'autres entreprises.
+- La $6^{ème}$ partie est constituée de questions d'entretien $\textit{en vrac}$ dont n'est pas renseigné l'entreprise.
+- La section $\textbf{Références}$ contient la liste des contributeurs qui ont permis la publication des questions.
+
+
+
+# Contribuer au site
+
+Le site web est mis en ligne et est accessible sur le lien [Github](https://github.com/SamyMekk/Exos_Entretien_Quant) et a été généré avec [Quarto](https://quarto.org). Il est possible de contribuer à ce site web en utilisant `git` que ce soit pour corriger des erreurs ou bien pour proposer de nouveaux énoncés via des pull requests. 

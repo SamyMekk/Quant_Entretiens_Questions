@@ -1,0 +1,14 @@
+# References {.unnumbered}
+
+::: {#refs}
+:::
+
+
+
+
+## Liste des contributeurs
+
+- Samy Mekkaoui (M2MO 2023-2024)
+- Rémi Surat (M2MO 2023-2024)
+- Simon Depaule (EK 2024-2025)
+

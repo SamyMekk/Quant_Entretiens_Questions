@@ -1,0 +1,37 @@
+project:
+  type: book
+
+lang: fr
+
+website:
+  favicon: images/logoENSAE.png
+
+book:
+  title: "Questions Entretien Quant"
+  author: "Samy Mekkaoui"
+  date: today
+  repo-url: "https://github.com/SamyMekk/Exos_Entretien_Quant"
+  chapters:
+     - index.qmd
+     - TestSG.qmd
+     - banques.qmd
+     - Fonds.qmd
+     - Conseil.qmd
+     - vrac.qmd
+     - autres.qmd
+     - references.qmd
+    
+  sidebar:
+    style: docked
+    logo: "images/logoENSAE.png"
+
+format:
+  html:
+    mainfont: "Computer Modern Serif"
+    theme:
+      light: simplex
+      dark: solar
+
+bibliography: references.bib
+
+

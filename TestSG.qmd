@@ -1,0 +1,115 @@
+#  Test Ecrit Société Générale
+
+
+Cette page contient les annales du test écrit de la Société Générale depuis l'année 2020-2021.
+
+
+
+## Test 2024-2025 
+
+### Exercice n°1 : Mathématiques 
+
+
+### Exercice n°2 : Calcul stochastique 
+
+
+On considère $B=(B_t)_{t \geq 0}$ un mouvement brownien sur un espace probabilisé $(\Omega,\mathcal{F})$ muni d'une probabilité $\mathbb{P}$. Soit $a,b > 0$ et notons :
+
+$$\tau = \text{inf} \lbrace  t \geq 0 :  B_t \notin [-a,b] \rbrace. $${#eq-deftau}
+
+qui représente le temps de sortie de l'intervalle $[-a,b]$ par le mouvement brownien $B$, et on note :
+
+$$\tau_b = \text{inf} \lbrace  t \geq 0 :  B_t \geq b \rbrace.$${#eq-deftaub}
+
+On note $\mathbb{F}$ la filtration canonique engendrée par le mouvement brownien $B$ de sorte que $\mathcal{F}_t = \sigma((B_u)_{0 \leq u \leq t})$.
+
+<br>
+
+$\textbf{A : Le principe de réfléxion }$ 
+
+Soit $y \leq b$.
+
+<div style="border:1px solid black; padding: 10px;">
+  <strong>A.1) </strong> Montrez que :
+
+ $$\lbrace \tau_b \leq t  \cap  B_t \geq 2b-y \rbrace = \lbrace B_t \geq 2b-y \rbrace.$$
+</div>
+
+<br>
+
+<div style="border:1px solid black; padding: 10px;">
+  <strong>A.2) </strong>  Montrez que :
+
+$$\mathbb{P}(\tau_b \leq t ; B_t \leq y) = \mathbb{P}(B_t \geq 2b-y).$$
+</div>
+
+<br>
+
+
+<div style="border:1px solid black; padding: 10px;">
+  <strong>A.3) </strong> En utilisant les points précédents, montrez que :
+
+-  $\lbrace  \text{sup}_{0 \leq u \leq t} B_u  \geq b \cap B_t \geq b \rbrace = \lbrace B_t \geq b \rbrace$.
+-  $\mathbb{P}( \text{sup}_{0 \leq u \leq t} B_u \geq b \cap  B_t \leq b ) = \mathbb{P}(B_t \geq b)$.
+
+Déduisez en et prouvez le principe de réflexion suivant :
+
+$$\mathbb{P}(\text{sup}_{0 \leq u \leq t} B_u \geq b) = 2 \mathbb{P}(B_t \geq b)$${#eq-ReflexionPrinciple}
+</div>
+
+
+<br>
+
+$\textbf{B : Etude de }$ $\tau_{b}$ 
+
+
+
+<div style="border:1px solid black; padding: 10px;">
+  <strong>B.1) </strong>  Montrez que   $\forall t \geq 0$, la densité de $\tau_b$ est donnée par :
+
+$$f_{\tau_b}(t) = \frac{b}{\sqrt{2 \pi} t^{\frac{3}{2}}}e^{-\frac{b^2}{2t}}$${#eq-DensiteTaub}
+</div>
+
+
+
+<br>
+
+
+<div style="border:1px solid black; padding: 10px;">
+  <strong>B.2) </strong>   Calculer la valeur de $\mathbb{E}[\sqrt{\tau_b}]$. Qu'en concluez vous alors pour $\mathbb{E}[\tau_b] ?$
+</div>
+
+
+<br> 
+
+$\textbf{C : Etude de}$ $\tau$
+
+
+<div style="border:1px solid black; padding: 10px;">
+  <strong>C.1) </strong>   Montrez que $\tau < + \infty$ $p.s$.
+</div>
+
+<br>
+
+
+$\textbf{D : Etude de quelques temps d'arrêt dans }$ $\mathbb{R}^{2}$
+
+
+
+
+
+### Exercice n°3 : Finance 
+
+### Exercice n°4 : Programmation 
+
+## Test 2023-2024 
+
+
+## Test 2022-2023 
+
+
+## Test 2021-2022 
+
+
+## Test 2020-2021 
+
