@@ -129,7 +129,7 @@ avec $B_1$ et $B_2$ 2 mouvements browniens unidimensionnels indépendants.
 
 On note maintenant :
 
--  $ < .,. >$ le produit scalaire canonique sur $\mathbb{R}^2$.
+-  < .,. > le produit scalaire canonique sur $\mathbb{R}^2$.
 -  $z \in \mathbb{R}^{2}$ privé de $\lbrace 0 \rbrace$.
 -  $X_t = \langle z ; B(t) \rangle $
 
