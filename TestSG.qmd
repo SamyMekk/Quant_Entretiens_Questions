@@ -75,6 +75,8 @@ $$f_{\tau_b}(t) = \frac{b}{\sqrt{2 \pi} t^{\frac{3}{2}}}e^{-\frac{b^2}{2t}}$${#e
 <br>
 
 
+
+
 <div style="border:1px solid black; padding: 10px;">
   <strong>B.2) </strong>   Calculer la valeur de $\mathbb{E}[\sqrt{\tau_b}]$. Qu'en concluez vous alors pour $\mathbb{E}[\tau_b] ?$
 </div>
@@ -90,6 +92,12 @@ $\textbf{C : Etude de}$ $\tau$
 </div>
 
 <br>
+
+
+<div style="border:1px solid black; padding: 10px;">
+  <strong>C.2) </strong>   Calculez la loi de $B_{\tau}$.
+</div>
+
 
 
 $\textbf{D : Etude de quelques temps d'arrêt dans }$ $\mathbb{R}^{2}$
