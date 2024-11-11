@@ -10,7 +10,7 @@ book:
   title: "Questions Entretien Quant"
   author: "Samy Mekkaoui"
   date: today
-  repo-url: "https://github.com/SamyMekk/Exos_Entretien_Quant"
+  repo-url: "https://github.com/SamyMekk/Quant_Entretiens_Questions"
   chapters:
      - index.qmd
      - TestSG.qmd

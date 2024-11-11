@@ -24,4 +24,4 @@ Ce site contient quelques questions d'entretien pour des postes de quant. Il est
 
 # Contribuer au site
 
-Le site web est mis en ligne et est accessible sur le lien [Github](https://github.com/SamyMekk/Exos_Entretien_Quant) et a été généré avec [Quarto](https://quarto.org). Il est possible de contribuer à ce site web en utilisant `git` que ce soit pour corriger des erreurs ou bien pour proposer de nouveaux énoncés via des pull requests. 
+Le site web est mis en ligne et est accessible sur le lien [Github](https://github.com/SamyMekk/Quant_Entretiens_Questions) et a été généré avec [Quarto](https://quarto.org). Il est possible de contribuer à ce site web en utilisant `git` que ce soit pour corriger des erreurs ou bien pour proposer de nouveaux énoncés via des pull requests. 
