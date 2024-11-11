@@ -1,0 +1,292 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Questions Entretien Quant",
+    "section": "",
+    "text": "Bienvenue sur ce site web de questions d’entretien pour le métier de Quant. Ce site web contiendra les questions pour toutes les positions de quant que sont les suivantes qui ont été posées en entretien à partir de l’année 2023-2024.\n\nQuant Analyst\nQuant Researcher\nQuant Trader\nQuant Developer\n\nLe site sera régulièrement mis à jour avec de nouvelles questions et nous remercions l’ensemble des contributeurs qui permettent de compléter ce site web.\n\nOrganisation du site\nCe site contient quelques questions d’entretien pour des postes de quant. Il est organisé en plusieurs sections :\n\nLa \\(1^{ère}\\) partie consituée des annales des tests écrits de la Société Générale depuis l’année 2020-2021.\nLa \\(2^{nde}\\) partie est constituée de questions posées lors d’entretiens en banque d’investissement.\nLa \\(3^{ème}\\) partie est constituée de questions posées lors d’entretiens en fonds d’investissement.\nLa \\(4^{ème}\\) partie est consituée de questions posées lors d’entretien en cabinet de conseil.\nLa \\(5^{ème}\\) partie est constituée de questions posées lors d’entretien dans d’autres entreprises.\nLa \\(6^{ème}\\) partie est constituée de questions d’entretien \\(\\textit{en vrac}\\) dont n’est pas renseigné l’entreprise.\nLa section \\(\\textbf{Références}\\) contient la liste des contributeurs qui ont permis la publication des questions.\n\n\n\nContribuer au site\nLe site web est mis en ligne et est accessible sur le lien Github et a été généré avec Quarto. Il est possible de contribuer à ce site web en utilisant git que ce soit pour corriger des erreurs ou bien pour proposer de nouveaux énoncés via des pull requests.",
+    "crumbs": [
+      "Organisation du site"
+    ]
+  },
+  {
+    "objectID": "TestSG.html",
+    "href": "TestSG.html",
+    "title": "1  Test Ecrit Société Générale",
+    "section": "",
+    "text": "1.1 Test 2024-2025\nCette page contient les annales du test écrit de la Société Générale depuis l’année 2020-2021.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Test Ecrit Société Générale</span>"
+    ]
+  },
+  {
+    "objectID": "TestSG.html#test-2024-2025",
+    "href": "TestSG.html#test-2024-2025",
+    "title": "1  Test Ecrit Société Générale",
+    "section": "",
+    "text": "1.1.1 Exercice n°1 : Mathématiques\n\n\n1.1.2 Exercice n°2 : Calcul stochastique\nOn considère \\(B=(B_t)_{t \\geq 0}\\) un mouvement brownien sur un espace probabilisé \\((\\Omega,\\mathcal{F})\\) muni d’une probabilité \\(\\mathbb{P}\\). Soit \\(a,b &gt; 0\\) et notons :\n\\[\\tau = \\text{inf} \\lbrace  t \\geq 0 :  B_t \\notin [-a,b] \\rbrace.  \\tag{1.1}\\]\nqui représente le temps de sortie de l’intervalle \\([-a,b]\\) par le mouvement brownien \\(B\\), et on note :\n\\[\\tau_b = \\text{inf} \\lbrace  t \\geq 0 :  B_t \\geq b \\rbrace. \\tag{1.2}\\]\nOn note \\(\\mathbb{F}\\) la filtration canonique engendrée par le mouvement brownien \\(B\\) de sorte que \\(\\mathcal{F}_t = \\sigma((B_u)_{0 \\leq u \\leq t})\\).\n\n\\(\\textbf{A : Le principe de réfléxion }\\)\nSoit \\(y \\leq b\\).\n\nA.1)  Montrez que :\n\\[\\lbrace \\tau_b \\leq t  \\cap  B_t \\geq 2b-y \\rbrace = \\lbrace B_t \\geq 2b-y \\rbrace.\\]\n\n\n\nA.2)  Montrez que :\n\\[\\mathbb{P}(\\tau_b \\leq t ; B_t \\leq y) = \\mathbb{P}(B_t \\geq 2b-y).\\]\n\n\n\nA.3)  En utilisant les points précédents, montrez que :\n\n\\(\\lbrace  \\text{sup}_{0 \\leq u \\leq t} B_u  \\geq b \\cap B_t \\geq b \\rbrace = \\lbrace B_t \\geq b \\rbrace\\).\n\\(\\mathbb{P}( \\text{sup}_{0 \\leq u \\leq t} B_u \\geq b \\cap  B_t \\leq b ) = \\mathbb{P}(B_t \\geq b)\\).\n\nDéduisez en et prouvez le principe de réflexion suivant :\n\\[\\mathbb{P}(\\text{sup}_{0 \\leq u \\leq t} B_u \\geq b) = 2 \\mathbb{P}(B_t \\geq b) \\tag{1.3}\\]\n\n\n\\(\\textbf{B : Etude de }\\) \\(\\tau_{b}\\)\n\nB.1)  Montrez que \\(\\forall t \\geq 0\\), la densité de \\(\\tau_b\\) est donnée par :\n\\[f_{\\tau_b}(t) = \\frac{b}{\\sqrt{2 \\pi} t^{\\frac{3}{2}}}e^{-\\frac{b^2}{2t}} \\tag{1.4}\\]\n\n\n\nB.2)  Calculer la valeur de \\(\\mathbb{E}[\\sqrt{\\tau_b}]\\). Qu’en concluez vous alors pour \\(\\mathbb{E}[\\tau_b] ?\\)\n\n\n\\(\\textbf{C : Etude de}\\) \\(\\tau\\)\n\nC.1)  Montrez que \\(\\tau &lt; + \\infty\\) \\(p.s\\).\n\n\n\\(\\textbf{D : Etude de quelques temps d'arrêt dans }\\) \\(\\mathbb{R}^{2}\\)\n\n\n1.1.3 Exercice n°3 : Finance\n\n\n1.1.4 Exercice n°4 : Programmation",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Test Ecrit Société Générale</span>"
+    ]
+  },
+  {
+    "objectID": "TestSG.html#test-2023-2024",
+    "href": "TestSG.html#test-2023-2024",
+    "title": "1  Test Ecrit Société Générale",
+    "section": "1.2 Test 2023-2024",
+    "text": "1.2 Test 2023-2024",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Test Ecrit Société Générale</span>"
+    ]
+  },
+  {
+    "objectID": "TestSG.html#test-2022-2023",
+    "href": "TestSG.html#test-2022-2023",
+    "title": "1  Test Ecrit Société Générale",
+    "section": "1.3 Test 2022-2023",
+    "text": "1.3 Test 2022-2023",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Test Ecrit Société Générale</span>"
+    ]
+  },
+  {
+    "objectID": "TestSG.html#test-2021-2022",
+    "href": "TestSG.html#test-2021-2022",
+    "title": "1  Test Ecrit Société Générale",
+    "section": "1.4 Test 2021-2022",
+    "text": "1.4 Test 2021-2022",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Test Ecrit Société Générale</span>"
+    ]
+  },
+  {
+    "objectID": "TestSG.html#test-2020-2021",
+    "href": "TestSG.html#test-2020-2021",
+    "title": "1  Test Ecrit Société Générale",
+    "section": "1.5 Test 2020-2021",
+    "text": "1.5 Test 2020-2021",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Test Ecrit Société Générale</span>"
+    ]
+  },
+  {
+    "objectID": "banques.html",
+    "href": "banques.html",
+    "title": "2  Questions posées en banques d’investissement",
+    "section": "",
+    "text": "2.1 Morgan Stanley\nCette page contient les questions d’entretien posées lors de divers entretiens en banques d’investissement à partir de l’année 2023-2024.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Questions posées en banques d'investissement</span>"
+    ]
+  },
+  {
+    "objectID": "banques.html#jp-morgan",
+    "href": "banques.html#jp-morgan",
+    "title": "2  Questions posées en banques d’investissement",
+    "section": "2.2 JP Morgan",
+    "text": "2.2 JP Morgan\n23 ## Société Générale",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Questions posées en banques d'investissement</span>"
+    ]
+  },
+  {
+    "objectID": "banques.html#cacib",
+    "href": "banques.html#cacib",
+    "title": "2  Questions posées en banques d’investissement",
+    "section": "2.3 CACIB",
+    "text": "2.3 CACIB",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Questions posées en banques d'investissement</span>"
+    ]
+  },
+  {
+    "objectID": "banques.html#bnp-paribas",
+    "href": "banques.html#bnp-paribas",
+    "title": "2  Questions posées en banques d’investissement",
+    "section": "2.4 BNP Paribas",
+    "text": "2.4 BNP Paribas",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Questions posées en banques d'investissement</span>"
+    ]
+  },
+  {
+    "objectID": "banques.html#hsbc",
+    "href": "banques.html#hsbc",
+    "title": "2  Questions posées en banques d’investissement",
+    "section": "2.5 HSBC",
+    "text": "2.5 HSBC",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Questions posées en banques d'investissement</span>"
+    ]
+  },
+  {
+    "objectID": "banques.html#citigroup",
+    "href": "banques.html#citigroup",
+    "title": "2  Questions posées en banques d’investissement",
+    "section": "2.6 CitiGroup",
+    "text": "2.6 CitiGroup",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Questions posées en banques d'investissement</span>"
+    ]
+  },
+  {
+    "objectID": "banques.html#deutsche-bank",
+    "href": "banques.html#deutsche-bank",
+    "title": "2  Questions posées en banques d’investissement",
+    "section": "2.7 Deutsche Bank",
+    "text": "2.7 Deutsche Bank",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Questions posées en banques d'investissement</span>"
+    ]
+  },
+  {
+    "objectID": "Fonds.html",
+    "href": "Fonds.html",
+    "title": "3  Questions posées en fonds d’investissement",
+    "section": "",
+    "text": "3.1 Qube Research & Technologies\nCette page contient les questions d’entretien posées lors de divers entretiens en fonds d’investissement à partir de l’année 2023-2024.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Questions posées en fonds d'investissement</span>"
+    ]
+  },
+  {
+    "objectID": "Fonds.html#citadel",
+    "href": "Fonds.html#citadel",
+    "title": "3  Questions posées en fonds d’investissement",
+    "section": "3.2 Citadel",
+    "text": "3.2 Citadel",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Questions posées en fonds d'investissement</span>"
+    ]
+  },
+  {
+    "objectID": "Fonds.html#squarepoint",
+    "href": "Fonds.html#squarepoint",
+    "title": "3  Questions posées en fonds d’investissement",
+    "section": "3.3 Squarepoint",
+    "text": "3.3 Squarepoint",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Questions posées en fonds d'investissement</span>"
+    ]
+  },
+  {
+    "objectID": "Fonds.html#jane-street",
+    "href": "Fonds.html#jane-street",
+    "title": "3  Questions posées en fonds d’investissement",
+    "section": "3.4 Jane Street",
+    "text": "3.4 Jane Street",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Questions posées en fonds d'investissement</span>"
+    ]
+  },
+  {
+    "objectID": "Fonds.html#sig",
+    "href": "Fonds.html#sig",
+    "title": "3  Questions posées en fonds d’investissement",
+    "section": "3.5 SIG",
+    "text": "3.5 SIG",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Questions posées en fonds d'investissement</span>"
+    ]
+  },
+  {
+    "objectID": "Conseil.html",
+    "href": "Conseil.html",
+    "title": "4  Questions posées en cabinet de conseil",
+    "section": "",
+    "text": "4.1 Forvis Mazars\nCette page contient les questions d’entretien posées lors de divers entretiens en cabinet de conseil à partir de l’année 2023-2024. ## Milliman",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Questions posées en cabinet de conseil</span>"
+    ]
+  },
+  {
+    "objectID": "Conseil.html#exiom-partners",
+    "href": "Conseil.html#exiom-partners",
+    "title": "4  Questions posées en cabinet de conseil",
+    "section": "4.2 Exiom Partners",
+    "text": "4.2 Exiom Partners",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Questions posées en cabinet de conseil</span>"
+    ]
+  },
+  {
+    "objectID": "vrac.html",
+    "href": "vrac.html",
+    "title": "5  Questions en vrac",
+    "section": "",
+    "text": "5.1 Probabilités",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Questions en vrac</span>"
+    ]
+  },
+  {
+    "objectID": "vrac.html#calcul-stochastique",
+    "href": "vrac.html#calcul-stochastique",
+    "title": "5  Questions en vrac",
+    "section": "5.2 Calcul stochastique",
+    "text": "5.2 Calcul stochastique",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Questions en vrac</span>"
+    ]
+  },
+  {
+    "objectID": "vrac.html#machine-learning",
+    "href": "vrac.html#machine-learning",
+    "title": "5  Questions en vrac",
+    "section": "5.3 Machine Learning",
+    "text": "5.3 Machine Learning",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Questions en vrac</span>"
+    ]
+  },
+  {
+    "objectID": "vrac.html#programmation",
+    "href": "vrac.html#programmation",
+    "title": "5  Questions en vrac",
+    "section": "5.4 Programmation",
+    "text": "5.4 Programmation",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Questions en vrac</span>"
+    ]
+  },
+  {
+    "objectID": "autres.html",
+    "href": "autres.html",
+    "title": "6  Questions posées dans d’autres entreprises",
+    "section": "",
+    "text": "6.1 Oryctérope Transalpin",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Questions posées dans d'autres entreprises</span>"
+    ]
+  },
+  {
+    "objectID": "autres.html#lexifi",
+    "href": "autres.html#lexifi",
+    "title": "6  Questions posées dans d’autres entreprises",
+    "section": "6.2 Lexifi",
+    "text": "6.2 Lexifi",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Questions posées dans d'autres entreprises</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Liste des contributeurs",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "references.html#liste-des-contributeurs",
+    "href": "references.html#liste-des-contributeurs",
+    "title": "References",
+    "section": "",
+    "text": "Samy Mekkaoui (M2MO 2023-2024)\nRémi Surat (M2MO 2023-2024)\nSimon Depaule (EK 2024-2025)",
+    "crumbs": [
+      "References"
+    ]
+  }
+]
