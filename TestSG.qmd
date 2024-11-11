@@ -131,7 +131,7 @@ On note maintenant :
 
 -  < .,. > le produit scalaire canonique sur $\mathbb{R}^2$.
 -  $z \in \mathbb{R}^{2}$ privé de $\lbrace 0 \rbrace$.
--  $ X_t = <z ; B(t)> $
+-  $X_{t} = <z ; B(t)>$
 
 
 <br>
